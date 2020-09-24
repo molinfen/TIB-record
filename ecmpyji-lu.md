@@ -1,6 +1,6 @@
 > # 程序修正记录
 
-1. 反应3NTD4pp的gpr的修正，从b0383 or b4213 or b0383→b4213 or b0383
+1. 反应3NTD4pp的gpr的修正，从b0383 or b4213 or b0383→b4213 or b0383，在workflow\_construction脚本中修改，未添加注释
 
 2. 单词拼写修正，solveing→solving，以及python文件中250行的拼写错误
 
