@@ -6,4 +6,5 @@
 * [2020.09](202009.md)
 * [ECMpy记录](ecmpyji-lu.md)
 * [enzyme\_relatch记录](enzymerelatch-ji-lu.md)
+* [MFA数据](mfashu-ju.md)
 
